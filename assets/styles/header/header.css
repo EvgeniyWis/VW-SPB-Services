@@ -50,6 +50,11 @@ header nav {
   gap: 0;
   color: var(--black);
 }
+@media (max-width: 1500px) {
+  header nav {
+    gap: 10px;
+  }
+}
 header nav .logo {
   display: flex;
   flex-direction: column;
@@ -63,6 +68,7 @@ header nav .logo h1 {
     width: 40px;
     height: 40px;
     font-size: 8px;
+    margin-right: 30px;
   }
 }
 header nav .navbar {
@@ -72,6 +78,11 @@ header nav .navbar {
   gap: 40px;
   max-width: 100%;
 }
+@media (max-width: 1500px) {
+  header nav .navbar {
+    gap: 70px;
+  }
+}
 header nav .navbar_phone {
   display: flex;
   gap: 20px;
@@ -80,6 +91,11 @@ header nav .navbar_phone {
 @media (max-width: 1400px) {
   header nav .navbar_phone {
     flex-direction: column;
+  }
+}
+@media (max-width: 1500px) {
+  header nav .navbar_phone {
+    gap: 10px;
   }
 }
 header nav .navbar__menu {

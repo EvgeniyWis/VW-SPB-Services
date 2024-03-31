@@ -33,7 +33,7 @@
 }
 @media (max-width: 500px) {
   .main_screen .breadcrumbs {
-    left: 3%;
+    left: 6%;
   }
 }
 .main_screen--caption {
@@ -45,7 +45,7 @@
 }
 @media (max-width: 500px) {
   .main_screen--caption {
-    margin: 10px 0;
+    margin: 0;
     font-size: 32px;
   }
 }/*# sourceMappingURL=main_screen.css.map */

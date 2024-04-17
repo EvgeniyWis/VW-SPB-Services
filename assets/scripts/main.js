@@ -2,7 +2,7 @@
 const navbar__adaptive_menuBurger = document.getElementById("navbar__adaptive_menuBurger");
 const navbar__adaptive_menu = document.getElementById("navbar__adaptive_menu");
 const navbar__adaptive_menu_cross = document.getElementById("navbar__adaptive_menu_cross");
-
+const popup__background = document.getElementById("popup__background");
 
 /* Открытие и закрытие бургер меню */
 navbar__adaptive_menuBurger.addEventListener("click", () => {

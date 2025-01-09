@@ -7,6 +7,6 @@
    1. Склонируйте данный репозиторий.
    2. Откройте файл ```index.html```
    
-Или вы можете просто зайти на [сайт](kriswis.github.io/VW-SPB-Services/), загруженный на Github Pages.
+Или вы можете просто зайти на [сайт](https://evgeniywis.github.io/VW-SPB-Services/), загруженный на Github Pages.
 # Макет:
 ![2024-04-07_21-22-30](https://github.com/KrisWis/VW-SPB-Services/assets/94256853/7ba29544-b585-4c02-9ac1-1adcd484378d)
